@@ -32,6 +32,7 @@ class TrafficManager:
         self.simulation_thread = None
         self.last_change_time = time.time()
         
+        
         # Statistics
         self.stats = {
             'total_vehicles_detected': 0,

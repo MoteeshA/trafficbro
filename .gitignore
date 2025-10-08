@@ -1,0 +1,6 @@
+__pycache__/
+.next
+node_modules
+yolov8n.pt
+uploads
+venv
