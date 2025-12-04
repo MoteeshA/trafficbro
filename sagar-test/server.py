@@ -23,4 +23,4 @@ if __name__ == "__main__":
     print("🎥 Video streaming support enabled")
     print("🚨 Traffic light simulation active")
     
-    socketio.run(app, debug=True, host='0.0.0.0', port=5000)
+    socketio.run(app, debug=True, host='0.0.0.0', port=5009)
